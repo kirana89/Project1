@@ -1,2 +1,7 @@
 customer1 hiii
+
 this is from phase 1
+=======
+new comment hello
+this is from main
+
